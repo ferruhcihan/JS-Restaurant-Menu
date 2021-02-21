@@ -4,3 +4,5 @@ In this project, you can filter meals with using menu buttons
 
 
 [View Restaurant Menu Page](https://frcihan.github.io/JS-Restaurant-Menu/)
+
+<img src='./images/ProjectOverview.png'>
